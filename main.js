@@ -32,4 +32,4 @@ function convert(arabicNumber) {
 
 }
 
-convert(543);
+convert(43);
